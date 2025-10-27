@@ -1,0 +1,4 @@
+Flask==3.0.3
+pymorphy2==0.9.1
+pymorphy2-dicts-uk==2.4.1.1.1665944761
+gunicorn==22.0.0
